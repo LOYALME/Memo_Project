@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668108581899",
+    "project_id": "protone-a71ad",
+    "storage_bucket": "protone-a71ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668108581899:android:b650d3b0676bf544b06b0e",
+        "android_client_info": {
+          "package_name": "com.example.protone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668108581899-p1prcna4cm51p2h11bgf7f1vp4g3lp1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFZFdn3XvazRHzUQaaqO3YHuYXcXheBMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668108581899-p1prcna4cm51p2h11bgf7f1vp4g3lp1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
